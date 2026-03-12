@@ -1,0 +1,14 @@
+file,total,correct,accuracy,invalid_rate
+run_1_alisawuffles_WANLI_test.json,5000,2645,0.529,0.0
+run_1_allenai_scitail_test.json,2126,1189,0.5593,0.0
+run_1_anli_test_r1.json,1000,497,0.497,0.0
+run_1_anli_test_r2.json,1000,458,0.458,0.0
+run_1_anli_test_r3.json,1200,531,0.4425,0.0
+run_1_copa_nli_test.json,1000,402,0.402,0.0
+run_1_inli_implied.json,1000,642,0.642,0.0
+run_1_inli_nli.json,3000,2255,0.7517,0.0
+run_1_multi_nli_validation_matched.json,9815,7894,0.8043,0.0
+run_1_multi_nli_validation_mismatched.json,9832,7900,0.8035,0.0
+run_1_pietrolesci_nli_fever_dev.json,19998,13639,0.682,0.0003
+run_1_snli_test.json,9824,8715,0.8871,0.0
+run_1_snli_validation.json,9842,8779,0.892,0.0
