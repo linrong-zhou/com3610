@@ -5,6 +5,7 @@ run_1_anli_test_r1.json,1000,491,0.491,0.0
 run_1_anli_test_r2.json,1000,466,0.466,0.0
 run_1_anli_test_r3.json,1200,531,0.4425,0.0
 run_1_copa_nli_test.json,1000,532,0.532,0.0
+run_1_inli_nli.json,3000,2234,0.7447,0.0
 run_1_multi_nli_validation_matched.json,9815,7834,0.7982,0.0
 run_1_multi_nli_validation_mismatched.json,9832,7794,0.7927,0.0
 run_1_pietrolesci_nli_fever_dev.json,19998,13553,0.6777,0.0004
