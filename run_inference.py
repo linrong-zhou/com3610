@@ -327,7 +327,6 @@ if __name__ == "__main__":
     assert 0 <= params.top_p <= 1
     assert params.model_type in ["gpt4mini", "mistral", "llama"]
 
-    # 先去掉 inli，因为你当前缺本地 csv 文件
     all_data_tuples = [
         ("snli", "test"),
         ("snli", "validation"),
